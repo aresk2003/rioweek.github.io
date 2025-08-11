@@ -43,7 +43,7 @@ body {
   justify-content: space-between;
   align-items: center;
   transition: background 0.3s;
-  font-size: 18px;
+  font-size: 28px;
 }
 
 .faq-header:hover {
